@@ -73,8 +73,8 @@ IT技能
 	*   [Github](https://github.com/fenjuly/Qshp)
 	*   [论坛地址](http://bbs.uestc.edu.cn/forum.php?mod=viewthread&tid=1432808)
 *	**SomeDay**(Android)
-*	*   简单轻便的日记app，纪录生活的点点滴滴。具体是文字与图片的纪录，然后分享他人。
-        *   [Github](https://github.com/fenjuly/SomeDay)
+	*   简单轻便的日记app，纪录生活的点点滴滴。具体是文字与图片的纪录，然后分享他人。
+        *  [Github](https://github.com/fenjuly/SomeDay)
         *   [豌豆荚](http://www.wandoujia.com/apps/com.example.liurongchan.traingdemo)
 
 
