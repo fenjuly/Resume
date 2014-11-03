@@ -68,8 +68,14 @@ IT技能
 	*	客户端给pc发常用指令, 比如音量控制, 播放视频等, 甚至执行代码
 *	**WatchLater** (基本功能完成, 纯功能完成度70%, 无UI)(Android)
 	*	客户端后台自动刷新和下载视频并提示用户在无网络的环境下观看
-*   **清水河畔android**(电子科技大学论坛的android客户端) **(http://bbs.stuhome.net/forum.php?mod=viewthread&tid=1432808&extra=page%3D1)**(https://github.com/fenjuly/Qshp)
+*       **清水河畔**(电子科技大学论坛的android客户端)         
 	*   在逛学校论坛时看见有人希望河畔能有个android客户端，自己想想挺有意义.突来的想法，没有论坛开发人员给接口。直接解析html，然后模拟登录，实现了浏览文字+图片信息，看贴，回帖，浏览个人信息等功能,做完了第一版，然后开源了出去交给后人维护
+	*   [Github](https://github.com/fenjuly/Qshp)
+	*   [论坛地址](http://bbs.uestc.edu.cn/forum.php?mod=viewthread&tid=1432808)
+*	**SomeDay**(Android)
+*	*   简单轻便的日记app，纪录生活的点点滴滴。具体是文字与图片的纪录，然后分享他人。
+        *   [Github](https://github.com/fenjuly/SomeDay)
+        *   [豌豆荚](http://www.wandoujia.com/apps/com.example.liurongchan.traingdemo)
 
 
 教育经历
