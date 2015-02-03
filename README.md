@@ -17,9 +17,9 @@ IT技能
 *	**后端**
 	*	熟悉http协议, Java Web开发，熟悉Spring MVC开发框架
 *   **Linux**
-    *   两年Linux使用经验，熟悉常用命令，主要工作环境
+    *   两年Linux使用经验，熟悉常用命令
 *	**Android**
-	*   对Android的基础知识很熟悉，对Android的UI Design很了解。熟悉目前比较火的android开源项目，工作环境android studio
+	*   对Android的基础知识很熟悉，对Android的UI Design很了解。熟悉目前比较火的android开源项目，开发环境android studio
 *   **Else**
     *   熟练掌握git命令
 
@@ -55,6 +55,15 @@ IT技能
     *  管理员管理店铺
 *   **在项目中的位置**
     *   两个后台开发人员之一，贡献了60％代码
+    
+**[舒心医生](http://pan.baidu.com/s/1c0nhn6S) 2014.12 ~ 2015.01**
+*  **项目介绍**
+   * 医生在手术时纪录手术详情的App客户端
+*  **工作内容**
+   * 主要是手术详情的纪录和病人病史的查询
+*  **在项目中的位置**
+   * 后台两个开发人员之一，主要负责数据库和REST API的设计，贡献了50%代码
+   * Android唯一开发人员
 
 
 	
