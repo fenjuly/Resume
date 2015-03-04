@@ -5,7 +5,7 @@
 联系方式
 ---------------
 *	**[Github](https://github.com/fenjuly/)**
-*       **[Blog](https://fenjuly.github.io)**
+*   **[Blog](https://fenjuly.github.io)**
 *	[newfenjuly@gmail.com](mailto:newfenjuly@gmail.com)
 
 
@@ -13,15 +13,17 @@
 
 IT技能
 ---------------
-*	**Java/Linux**
+*	**Java**
+    *   平常用的比较多的语言，熟悉常见的设计模式，也研究过[代码家](https://github.com/daimajia)用java写的多线程库，见[我写的这篇文章](http://fenjuly.com/2014/11/26/java-multithread-downloader/)    
 *	**后端**
 	*	熟悉http协议, Java Web开发，熟悉Spring MVC开发框架
 *   **Linux**
     *   两年Linux使用经验，熟悉常用命令
 *	**Android**
-	*   对Android的基础知识很熟悉，对Android的UI Design很了解。熟悉目前比较火的android开源项目，开发环境android studio
+	*   对Android的基础知识很熟悉，对Android的UI Design很了解。熟悉目前比较火的android开源项目，也研究过一些比较火的开源项目如[AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)，[NumberProgressBar](https://github.com/daimajia/NumberProgressBar)，[AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)。研究和学习过google的官方training教程。并尝试着开源自己写的一些项目[清水河畔](https:/github.com/fenjuly/Qshp)，[SomeDay](https://github.com/fenjuly/SomeDay)，[舒心医生](https://gtihub.com/fenjuly/ly)
 *   **Else**
     *   熟练掌握git命令
+    *   崇拜Geek，崇尚开源精神。经常关注HackerNews和GitHub。
 
 
 部分项目经验  
@@ -57,6 +59,7 @@ IT技能
     *   两个后台开发人员之一，贡献了60％代码
     
 **[舒心医生](http://pan.baidu.com/s/1c0nhn6S) 2014.12 ~ 2015.01**
+
 *  **项目介绍**
    * 医生在手术时纪录手术详情的App客户端
 *  **工作内容**
@@ -77,14 +80,14 @@ IT技能
 	*	客户端给pc发常用指令, 比如音量控制, 播放视频等, 甚至执行代码
 *	**WatchLater** (基本功能完成, 纯功能完成度70%, 无UI)(Android)
 	*	客户端后台自动刷新和下载视频并提示用户在无网络的环境下观看
-*       **清水河畔**(电子科技大学论坛的android客户端)         
+*   **清水河畔**(电子科技大学论坛的android客户端)         
 	*   在逛学校论坛时看见有人希望河畔能有个android客户端，自己想想挺有意义.突来的想法，没有论坛开发人员给接口。直接解析html，然后模拟登录，实现了浏览文字+图片信息，看贴，回帖，浏览个人信息等功能,做完了第一版，然后开源了出去交给后人维护
 	*   [Github](https://github.com/fenjuly/Qshp)
 	*   [论坛地址](http://bbs.uestc.edu.cn/forum.php?mod=viewthread&tid=1432808)
 *	**SomeDay**(Android)
 	*   简单轻便的日记app，纪录生活的点点滴滴。具体是文字与图片的纪录，然后分享他人。
-        *  [Github](https://github.com/fenjuly/SomeDay)
-        *   [豌豆荚](http://www.wandoujia.com/apps/com.example.liurongchan.traingdemo)
+    *  [Github](https://github.com/fenjuly/SomeDay)
+    *   [豌豆荚](http://www.wandoujia.com/apps/com.example.liurongchan.traingdemo)
 
 
 教育经历
