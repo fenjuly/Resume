@@ -4,10 +4,15 @@
 
 联系方式
 ---------------
+*   **Tel: 18673663057**
 *	**[Github](https://github.com/fenjuly/)**
 *   **[Blog](https://fenjuly.github.io)**
 *	[newfenjuly@gmail.com](mailto:newfenjuly@gmail.com)
 
+
+应聘岗位
+---------------
+>Android客户端开发
 
 
 
@@ -58,7 +63,7 @@ IT技能
 *   **在项目中的位置**
     *   两个后台开发人员之一，贡献了60％代码
     
-**[舒心医生](http://pan.baidu.com/s/1c0nhn6S) 2014.12 ~ 2015.01**
+**[舒心医生](https://github.com/fenjuly/ly/releases/download/1.0/app-release.apk) 2014.12 ~ 2015.01**
 
 *  **项目介绍**
    * 医生在手术时纪录手术详情的App客户端
@@ -88,6 +93,10 @@ IT技能
 	*   简单轻便的日记app，纪录生活的点点滴滴。具体是文字与图片的纪录，然后分享他人。
     *  [Github](https://github.com/fenjuly/SomeDay)
     *   [豌豆荚](http://www.wandoujia.com/apps/com.example.liurongchan.traingdemo)
+    
+*   **CombinationImageView**(Android)
+    *   仿微信群头像的一个组件
+    *   [Github](https://github.com/fenjuly/CombinationImageView)
 
 
 教育经历
