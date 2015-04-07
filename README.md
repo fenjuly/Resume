@@ -19,7 +19,7 @@
 IT技能
 ---------------
 *	**Java**
-    *   平常用的比较多的语言，熟悉常见的设计模式，也研究过[代码家](https://github.com/daimajia)用java写的多线程库，见[我写的这篇文章](http://fenjuly.com/2014/11/26/java-multithread-downloader/)。    
+    *   平常用的比较多的语言，比较熟悉，也研究过[代码家](https://github.com/daimajia)用java写的多线程库，见[我写的这篇文章](http://fenjuly.com/2014/11/26/java-multithread-downloader/)。    
 *	**后端**
 	*	熟悉http协议，Java Web开发，熟悉Spring MVC开发框架，熟悉REST API设计。
 *   **Linux**
